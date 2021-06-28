@@ -4,7 +4,7 @@
 
 - [This link](https://nodejs.org/en/) should be used to download Node JS. Depending on the OS it can be installed.
 
-2. Download `EXPO` mobile emulator in your mobile device.
+2. Download `EXPO` mobile emulator in your mobile device. [Play Store link](https://play.google.com/store/apps/details?id=host.exp.exponent)
 - Read [this](https://docs.expo.io/guides/testing-on-devices/) document how to test the mobile application in you android device.
 
 - Its can be tested in emulator using Android Studio but its very slow and not recommended.
