@@ -3,8 +3,11 @@
 This code is written JavaScript and use React Native to build Android or iOS app as required. It can be compiled in any platfrom.
   - Required:
         - Node JS
+        
         - Expo
+        
         - npm
+        
         - yarn
         
 
