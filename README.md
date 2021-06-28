@@ -22,7 +22,7 @@
 If you want to build app.
 
 - `$ expo login `(login with your expo account) ->. enter this command in cmd/ terminal 
-- Create a expo account [here](https://expo.io/signup). This is required to build signed mobile applicaiton with play store. 
+- If you dont have expo account then create a expo account [here](https://expo.io/signup). This is required to build signed mobile applicaiton with play store. 
 - `expo build:android` or `expo build:ios`
 
 Learn about expo here:
