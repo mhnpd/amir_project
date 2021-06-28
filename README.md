@@ -22,6 +22,7 @@
 If you want to build app.
 
 - `$ expo login `(login with your expo account)
+- Create a expo account [here](https://expo.io/signup). This is required to sign the app
 - `expo build:android` or `expo build:ios`
 
 Learn about expo here:
