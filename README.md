@@ -1,5 +1,13 @@
 ## How to Run this APP: (Amir :) )
 
+This code is written JavaScript and use React Native to build Android or iOS app as required. It can be compiled in any platfrom.
+  - Required:
+        - Node JS
+        - Expo
+        - npm
+        - yarn
+        
+
 1. Install NODE JS in you device.
 
 - [This link](https://nodejs.org/en/) should be used to download Node JS. Depending on the OS it can be installed.
