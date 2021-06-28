@@ -9,9 +9,9 @@
 
 - Its can be tested in emulator using Android Studio but its very slow and not recommended.
 
-3. Now Download the code base. [This](https://github.com/mhnpd/amir_project) links will lead to page code this is download button
+3. Now Download the code base. [This](https://github.com/mhnpd/amir_project) link will lead to project. There is download button left corner.
 
-4. Enter following command in terminal (cmd for window.) All the command should be perform in inside the folder where code is dowloaded. Do it one by one
+4. Enter following command in terminal (cmd for window.) All the command should be perform inside the folder where code is dowloaded. Do it one by one...
 - `npm install -g expo-cli`
 - `npm i -g yarn `
 - `yarn install`
