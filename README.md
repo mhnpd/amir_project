@@ -9,7 +9,7 @@
 
 - Its can be tested in emulator using Android Studio but its very slow and not recommended.
 
-3. Now Download the code base .
+3. Now Download the code base. [This](https://github.com/mhnpd/amir_project) links will lead to page code this is download button
 
 4. Enter following command in terminal (cmd for window.) one by one
 - `npm install -g expo-cli`
