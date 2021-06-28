@@ -30,5 +30,5 @@ Learn about expo here:
 https://docs.expo.io/
 
 #### How to Download this code
-Find the download button of top left corner.
-Google->How to download code from github??
+- Find the download button of top left corner
+- Google->How to download code from github??
